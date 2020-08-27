@@ -1,0 +1,347 @@
+.Navstyle{
+margin-left: -15px;
+margin-right: -15px;
+background: rgb(25,46,97);
+background: linear-gradient(90deg, rgba(25,46,97,1) 10%, rgba(86,119,195,1) 87%);
+}
+.Switchstyle{
+  color: white !important;
+  padding-right: 15px;
+
+}
+.centerLoad{
+  margin-top: 25%;
+}
+.expandedTitle{
+  font-size: 30px;
+  font-style: italic;
+}
+.centerLoadB{
+  margin-left: auto;
+  margin-right: auto;
+}
+.cardshadow{
+  box-shadow: 0 5px 7px 0 rgba(0,0,0,0.3);
+}
+.tooltipcust{
+  background-size: auto !important;
+  line-height: 10px !important;
+  border-radius: 5px !important;
+}
+
+.modalbodycss{
+  text-align: center;
+}
+.sharingcss{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.cardspecial{
+  cursor: pointer;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: 10px;
+  box-shadow: 0 5px 7px 0 rgba(0,0,0,0.3);
+}
+@media only screen and (max-width: 575px) {
+  .cardspecial {
+    margin-bottom: -10px;
+
+  }
+}
+@media only screen and (max-width: 575px) {
+  .tinytext{
+    font-size: 25px;
+
+  }
+}
+@media only screen and (max-width: 320px) {
+  .tinytext{
+    font-size: 20px;
+
+  }
+}
+.marginsof{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hometitle{
+  font-style: italic;
+  font-weight: 700;
+}
+.bcardspecial{
+  cursor: pointer;
+  box-shadow: 0 5px 7px 0 rgba(0,0,0,0.3);
+  border-radius: 5px;
+  margin-bottom: -10px;
+  padding-bottom: 20px;
+  
+ 
+}
+.trytofix2{
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.trytofix{
+border-radius: 0px;
+}
+.specialcol1{
+  margin-bottom: 15px;
+
+}
+@media only screen and (max-width: 575px) {
+  .specialcol1 {
+    margin-bottom: -25px;
+
+  }
+}
+.pointerover{
+  cursor: pointer;
+}
+.allelsecss{
+  background-color: rgba(110,117,124);
+  color: white;
+}
+.worldcss{
+
+  background-color: rgba(124,77,255);
+  color: white;
+}
+.politicscss{
+  background-color: rgba(64,148,163);
+  color: white;
+}
+.businesscss{
+  background-color: rgba(70,150,236);
+  color: white;
+}
+.technologycss{
+  background-color: rgba(204,218,57);
+  color: black;
+}
+.sportscss{
+  background-color: rgba(246,194,68);
+  color: black;
+}
+.ballelsecss{
+  font-size: 9px;
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: rgba(110,117,124);
+  color: white;
+}
+.bworldcss{
+  font-size: 9px;
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: rgba(124,77,255);
+  color: white;
+}
+.bpoliticscss{
+  font-size: 9px;
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: rgba(64,148,163);
+  color: white;
+}
+.bbusinesscss{
+  font-size: 9px;
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: rgba(70,150,236);
+  color: white;
+}
+.btechnologycss{
+  margin-top: 5px;
+  font-size: 9px;
+  margin-right: 5px;
+  background-color: rgba(204,218,57);
+  color: black;
+}
+.bsportscss{
+  margin-top: 5px;
+  font-size: 9px;
+  margin-right: 5px;
+  background-color: rgba(246,194,68);
+  color: black;
+}
+@media only screen and (max-width: 575px) {
+  .ballelsecss, .bworldcss, .bpoliticscss, .bbusinesscss, .btechnologycss, .bsportscss{
+     font-size: 11px;
+     margin-top: 0px;
+   }
+   
+ }
+ .homebadge{
+   margin-bottom: 10px;
+ }
+ .homedate{
+  font-style: italic;
+  font-weight: 500;
+ }
+.callelsecss{
+  font-size: 10px;
+  background-color: rgba(110,117,124);
+  color: white;
+}
+@media only screen and (max-width: 575px) {
+  .callelsecss, .cworldcss, .cpoliticscss, .cbusinesscss, .ctechnologycss, .csportscss{
+     font-size: 11px;
+   }
+   
+ }
+.cworldcss{
+  font-size: 10px;
+  background-color: rgba(124,77,255);
+  color: white;
+}
+
+.cpoliticscss{
+  font-size: 10px;
+  background-color: rgba(64,148,163);
+  color: white;
+}
+
+.cbusinesscss{
+  font-size: 10px;
+  background-color: rgba(70,150,236);
+  color: white;
+}
+
+.ctechnologycss{
+  font-size: 10px;
+  background-color: rgba(204,218,57);
+  color: black;
+}
+.csportscss{
+  font-size: 10px;
+  background-color: rgba(246,194,68);
+  color: black;
+}
+.toasttext{
+  color: black;
+}
+.hiddenz{
+  display: none ;
+}
+.show{
+  display: block !important;
+}
+.bookmarkbar{
+  padding-top: 5px;
+  margin-right: 15px;
+  
+}
+.react-switch{
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.hs{
+  color: white !important;
+}
+
+.hu{
+  color: rgba(148,158,184) !important;
+}
+.hu:hover{
+  color: white !important;
+}
+.specialfav{
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-style: italic;
+ 
+}
+.customtextbook{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.guardcol{
+  font-size: 9px;
+  margin-top: 5px;
+  background-color: rgba(19,40,47);
+  color: white;
+}
+.nycol{
+  font-size: 9px;
+  margin-top: 5px;
+  background-color: rgba(221,221,221);
+  color: black;
+}
+@media only screen and (max-width: 575px) {
+  .nycol, .guardcol{
+    margin-top: 0px;
+     font-size: 11px;
+   }
+   
+ }
+.bdate{
+  font-size: 13px;
+  font-style: italic;
+}
+.bdate1{
+  font-size: 13px;
+  font-style: italic;
+}
+@media only screen and (max-width: 575px) {
+  .bdate1{
+    font-size: 15px;
+    font-style: italic;
+  }
+  
+}
+.navclass{
+  width: 270px;
+}
+@media only screen and (max-width: 320px) {
+  .navclass {
+width: 220px;
+
+  }
+}
+.styleattempt1{
+
+  margin-left: -15px;
+  margin-right: -15px;
+}
+@media only screen and (max-width: 575px) {
+  .styleattempt1 {
+    margin-left: -30px;
+    margin-right: -30px;
+
+  }
+}
+.styleattempt2{
+
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.resultandbooktitle{
+  margin-left: 0px;
+}
+@media only screen and (max-width: 575px) {
+  .resultandbooktitle{
+    margin-left: -15px;
+  }
+  
+}
+
+.expandeddate{
+  font-style: italic;
+  font-weight: 500;
+}
+@media only screen and (max-width: 575px) {
+  .expandeddate{
+    font-size: 15px;
+  }
+  
+}
+@media only screen and (max-width: 320px) {
+  .expandeddate{
+    padding-top: 5px;
+    font-size: 12px;
+  }
+  
+}
